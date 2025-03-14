@@ -1,0 +1,9 @@
+openai
+crewai
+crewai_tools
+opencv-python
+psutil
+webbrowser
+pydantic
+pyautogui
+subprocess
